@@ -1,4 +1,4 @@
-Windows_Mode = False
+Windows_Mode = True
 
 from kivymd.app import MDApp
 from kivy.core.window import Window
