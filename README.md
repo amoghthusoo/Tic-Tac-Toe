@@ -40,7 +40,7 @@ The backend code for this app is hosted in the `Login-System` repository. Ensure
 
 ### Backend Repository
 
-- [Login-System Repository](https://github.com/yourusername/Login-System)
+- [Login-System Repository](https://github.com/amoghthusoo/Login-System)
 
 ## Configuration
 
